@@ -4,7 +4,7 @@ Developed as part of my internship at **Codmetric (July–August 2025)**, this i
 
 ---
 
-## 🧮 Python Calculator – Internship Task 2
+## 🧮 Python Calculator 
 
 This project helped reinforce my understanding of core Python concepts such as functions, conditionals, loops, and exception handling.
 
